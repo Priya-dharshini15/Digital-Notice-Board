@@ -1,3 +1,4 @@
+#A Digital Notice Board is an advanced communication system designed to replace traditional paper-based notice boards. Leveraging digital technology, this system enables real-time updates, remote management, and interactive content presentation. The primary objective is to streamline information dissemination in institutions, offices, and public spaces while reducing paper waste and operational inefficiencies.
 # Digital-Notice-Board
 import javax.swing.*;
 import java.awt.*;
